@@ -2,6 +2,6 @@
 
 ### Overview
 
-Practicing on simple linear regression using numpy, scikit-learn and matplotlib
+Practicing on simple linear regression using numpy, sklearn and matplotlib
 
 Foverever growing ♾

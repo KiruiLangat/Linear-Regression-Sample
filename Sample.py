@@ -16,6 +16,6 @@ predictions = model.predict(x)
 print(predictions)
 
 # Visualize designs
-plt.scatter(x, y, color='blue')
-plt.plot(x, predictions, color='red')
+plt.scatter(x, y, color='yellow')
+plt.plot(x, predictions, color='red', linestyle='dashed')
 plt.show()
